@@ -1,6 +1,6 @@
-FROM python:3-alpine
+FROM python:3
 
-MAINTAINER Peter Fisher
+
 
 COPY ./app/requirements.txt /app/requirements.txt
 
